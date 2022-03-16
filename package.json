@@ -6,12 +6,12 @@
     "build": "uni build --outDir dist"
   },
   "dependencies": {
-    "@dcloudio/uni-app": "^3.0.0-alpha-3030820220114011",
-    "@dcloudio/uni-h5": "^3.0.0-alpha-3030820220114011",
-    "vue": "^3.2.30"
+    "@dcloudio/uni-app": "^3.0.0-alpha-3040220220310004",
+    "@dcloudio/uni-h5": "^3.0.0-alpha-3040220220310004",
+    "vue": "^3.2.31"
   },
   "devDependencies": {
-    "@dcloudio/vite-plugin-uni": "^3.0.0-alpha-3030820220114011",
-    "vite": "^2.8.0"
+    "@dcloudio/vite-plugin-uni": "^3.0.0-alpha-3040220220310004",
+    "vite": "^2.8.6"
   }
 }
