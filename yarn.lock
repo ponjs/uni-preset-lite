@@ -1757,6 +1757,11 @@ type-is@~1.6.18:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
+uni-ajax@^2.4.3:
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/uni-ajax/-/uni-ajax-2.4.3.tgz#2ce48104d850777ecbc1d7c6f23a84966a884d19"
+  integrity sha512-ny+6KoXs6D7KWiLQ1vEzNig0QgfkTDlP3Hx8Z6hcX2lqSsjq6P2Q70818gA+YUh5NrsuhH1M4F4wt4eQsRo8yw==
+
 universalify@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
